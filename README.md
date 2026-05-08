@@ -1,9 +1,7 @@
 # 📸 RV_LearnPhotography
 
-
-
 <p>
-  <img src="assets/logo.png" width="250">
+  <img src="assets/logo.png" width="500">
 </p>
 
 
@@ -31,6 +29,7 @@ Developed as a primary Web Programming project for BSc. IT (First Year). This pl
 * **Clean Architecture:** Organized file structure with separated assets and server-side logic.
 
 <br>
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML, CSS
